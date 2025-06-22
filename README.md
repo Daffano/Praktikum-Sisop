@@ -1,4 +1,7 @@
-Task 4 - LilHabOS dikerjakan oleh Daffano Abyan Zakyanto Azmy (5025231249) 
+Task 4 - LilHabOS
+Daffano Abyan Zakyanto Azmy (5025231249) 
+
+
 a) Persiapan dan Implementasi Fitur Sesuai SoalPada tugas ini, tujuan utamanya adalah membuat sebuah kernel sederhana yang memiliki shell dengan fitur echo, grep, wc, dan kemampuan piping. Pengerjaan dilakukan dengan mengikuti semua tugas yang diberikan di soal.Struktur Proyek dan File: 
 Pertama, dilakukan penyiapan struktur direktori yang terdiri dari folder bin, include, dan src, beserta semua file kosong yang dibutuhkan.
 Tempatkan screenshot struktur direktori Anda di sini:
